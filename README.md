@@ -23,7 +23,7 @@ This repository contains my cloud and data engineering certifications.
 
 ## Microsoft
 
-1. [Fabric Data Engineer Associate](https://learn.microsoft.com/en-us/users/aakashkrishnanu-1275/credentials/certification/fabric-data-engineer-associate)
+1. [Fabric Data Engineer Associate](https://learn.microsoft.com/api/credentials/share/en-us/AakashKrishnanU-1275/89EA64F5ACAB5924?sharingId)
 2. [Introduction to generative AI and agents](https://learn.microsoft.com/en-us/users/aakashkrishnanu-1275/achievements/2jyczblv)
 
 ---
