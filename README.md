@@ -25,6 +25,13 @@ This repository contains my cloud and data engineering certifications.
 
 1. [Fabric Data Engineer Associate](https://learn.microsoft.com/api/credentials/share/en-us/AakashKrishnanU-1275/89EA64F5ACAB5924?sharingId)
 2. [Introduction to generative AI and agents](https://learn.microsoft.com/en-us/users/aakashkrishnanu-1275/achievements/2jyczblv)
+3. [Introduction to Cloud Infrastructure: Describe cloud concepts](https://learn.microsoft.com/api/achievements/share/en-us/AakashKrishnanU-1275/NMUJ257F?sharingId=CAD8AD4640530FB7)
+4. [Develop generative AI apps in Azure](https://learn.microsoft.com/api/achievements/share/en-us/AakashKrishnanU-1275/WV9DVAHN?sharingId=CAD8AD4640530FB7)
+5. [Implement generative AI solution in Microsoft Foundry](https://learn.microsoft.com/api/achievements/share/en-us/AakashKrishnanU-1275/NMUJM7HF?sharingId=CAD8AD4640530FB7)
+6. [Configure the Azure Machine Learning workspace](https://learn.microsoft.com/api/achievements/share/en-us/AakashKrishnanU-1275/XEHSPV2Y?sharingId=CAD8AD4640530FB7)
+7. [Introduction to generative AI and agents]()
+8. [Introduction to generative AI and agents]()
+
 
 ---
 
