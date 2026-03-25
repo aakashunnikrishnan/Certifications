@@ -49,6 +49,13 @@ This repository contains my cloud and data engineering certifications.
 1. [dbt Fundamentals](https://credentials.getdbt.com/cf8af6ae-9006-45ef-8048-8183f8a2dbd8#acc.MYnxVO7T)
 
 ---
+## Atlan
+
+1. [Metadata Lakehouse 101 ](https://university.atlan.com/certifications/019ce781-f198-7bdd-afeb-2556cfafdf0b)
+2. [DataOps Essentials ](https://university.atlan.com/certifications/5cec3316-2d1f-11ed-9497-06cf503dca07)
+3. [Data Discovery ](https://university.atlan.com/certifications/fc96c6ac-a8bf-11ee-94f0-068ea9292a21)
+
+---
 ## Udemy
 
 1. [Snowflake – The Complete Masterclass](https://www.udemy.com/certificate/UC-9a689f95-39b5-4d14-ba3e-ee8064f97225/)
