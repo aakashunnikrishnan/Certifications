@@ -49,3 +49,21 @@ This repository contains my cloud and data engineering certifications.
 1. [dbt Fundamentals](https://credentials.getdbt.com/cf8af6ae-9006-45ef-8048-8183f8a2dbd8#acc.MYnxVO7T)
 
 ---
+## Udemy
+
+1. [Snowflake – The Complete Masterclass](https://www.udemy.com/certificate/UC-9a689f95-39b5-4d14-ba3e-ee8064f97225/)
+2. [Apache Airflow | A Real-Time & Hands-On Course on Airflow](https://www.udemy.com/certificate/UC-7a75414b-b676-4647-8bdf-6d91c312d4b1/)
+3. [Project Scope Management](https://www.udemy.com/certificate/UC-6fcb6c77-46f5-40f8-8456-22f367a1ea3f/)
+4. [Deploying AI & Machine Learning Models for Business | Python](https://www.udemy.com/certificate/UC-f53eeaab-d85d-4fda-a031-b95de1cc86bc/)
+5. [Practice Exams | AWS Certified Data Engineer - Associate](https://www.udemy.com/certificate/UC-c95c48d5-f43f-48cc-9aa7-1f03fa7ee6e2/)
+6. [Change Data Capture (CDC) using Debezium for MySQL](https://www.udemy.com/certificate/UC-946d541a-cb9b-4d37-b73e-40f5a2786935/)
+7. [Data Governance - The Complete Course for Beginners](https://www.udemy.com/certificate/UC-2cb9326e-4b21-43ac-85d7-58f8e6b199a7/)
+8. [Data Architecture for Data Engineers: Practical Approaches](https://www.udemy.com/certificate/UC-6033f642-d797-42c1-8172-777d7b767e2c/)
+9. [Databricks Certified Data Engineer Associate - Preparation](https://www.udemy.com/certificate/UC-2248fd3f-5efc-491c-949b-ec97137b2490/)
+10. [Data Engineering, Serverless ETL & BI on Amazon Cloud](https://www.udemy.com/certificate/UC-8dd4ae0a-daf9-41bd-858e-946b014abebf/)
+11. [Apache Iceberg: The Complete Masterclass (Hands-On)](https://www.udemy.com/certificate/UC-978fe6ea-251b-4bd5-abd4-afdd638ba02e/)
+12. [Databricks Certified Data Engineer Professional -Preparation](https://www.udemy.com/certificate/UC-c2b3f54f-dc5f-41be-984c-082a749ef3d5/)
+13. [Apache Spark 3 - Databricks Certified Associate Developer](https://www.udemy.com/certificate/UC-16ec4174-65c1-42e6-b8bf-216cc33d8347/)
+
+
+---
