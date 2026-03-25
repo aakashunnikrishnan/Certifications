@@ -29,8 +29,7 @@ This repository contains my cloud and data engineering certifications.
 4. [Develop generative AI apps in Azure](https://learn.microsoft.com/api/achievements/share/en-us/AakashKrishnanU-1275/WV9DVAHN?sharingId=CAD8AD4640530FB7)
 5. [Implement generative AI solution in Microsoft Foundry](https://learn.microsoft.com/api/achievements/share/en-us/AakashKrishnanU-1275/NMUJM7HF?sharingId=CAD8AD4640530FB7)
 6. [Configure the Azure Machine Learning workspace](https://learn.microsoft.com/api/achievements/share/en-us/AakashKrishnanU-1275/XEHSPV2Y?sharingId=CAD8AD4640530FB7)
-7. [Introduction to generative AI and agents]()
-8. [Introduction to generative AI and agents]()
+
 
 
 ---
