@@ -71,6 +71,8 @@ This repository contains my cloud and data engineering certifications.
 11. [Apache Iceberg: The Complete Masterclass (Hands-On)](https://www.udemy.com/certificate/UC-978fe6ea-251b-4bd5-abd4-afdd638ba02e/)
 12. [Databricks Certified Data Engineer Professional -Preparation](https://www.udemy.com/certificate/UC-c2b3f54f-dc5f-41be-984c-082a749ef3d5/)
 13. [Apache Spark 3 - Databricks Certified Associate Developer](https://www.udemy.com/certificate/UC-16ec4174-65c1-42e6-b8bf-216cc33d8347/)
+14. [Complete Guide to Elasticsearch](https://www.udemy.com/certificate/UC-159d8895-9a0f-4213-9dd4-2671a85fd1b2/)
+
 
 
 ---
