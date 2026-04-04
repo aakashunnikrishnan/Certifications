@@ -7,6 +7,7 @@ This repository contains my cloud and data engineering certifications.
 ## Databricks
 
 1. [Databricks Certified Data Engineer Associate](https://credentials.databricks.com/aebd1fea-b8b8-42b1-ba54-c081ef066102#acc.uxfepQtd)
+2. [Databricks Certified Generative AI Engineer Associate](https://credentials.databricks.com/9ea91814-ec02-4759-a026-6e8f3c24d1c2)
 2. [Academy Accreditation - Generative AI Fundamentals](https://credentials.databricks.com/4ed247f2-b592-44b6-a779-8c1cbbfbd63a#acc.DjlX9oBf)
 3. [Knowledge Badge - Generative AI Application Evaluation and Governance](https://credentials.databricks.com/75e0405a-9507-4e26-bad7-83a37a821d15#acc.IJuHj9dz)
 4. [Knowledge Badge - Generative AI Application Deployment and Monitoring](https://credentials.databricks.com/0ebe2738-d24e-4611-ba7c-a08ede95b13c#acc.OkzQT8Fh)
