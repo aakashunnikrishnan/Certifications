@@ -50,11 +50,10 @@ This repository contains my cloud and data engineering certifications.
 1. [dbt Fundamentals](https://credentials.getdbt.com/cf8af6ae-9006-45ef-8048-8183f8a2dbd8#acc.MYnxVO7T)
 
 ---
-## Atlan
+## Confluent
 
-1. [Metadata Lakehouse 101 ](https://university.atlan.com/certifications/019ce781-f198-7bdd-afeb-2556cfafdf0b)
-2. [DataOps Essentials ](https://university.atlan.com/certifications/5cec3316-2d1f-11ed-9497-06cf503dca07)
-3. [Data Discovery ](https://university.atlan.com/certifications/fc96c6ac-a8bf-11ee-94f0-068ea9292a21)
+1. [Data Streaming Engineer Foundations](https://certificates.confluent.io/16d55d0f-4e25-4434-bc17-c5e05c0e4f7a)
+2. [Data Streaming Engineer - Apache Flink](https://certificates.confluent.io/bee9306d-a1a3-430f-8966-7e2c9b1fea48)
 
 ---
 ## Udemy
